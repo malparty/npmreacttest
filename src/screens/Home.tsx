@@ -14,6 +14,7 @@ const HomeScreen = (): JSX.Element => {
         <a className="app-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer" data-test-id="app-link">
           {t('sample_page.learn_react')}
         </a>
+        <strong>This is a test!</strong>
       </header>
     </div>
   );
